@@ -1,1 +1,1 @@
-Marca: TESTE  |  Modelo: TESTE  |  Ano: 3299  |  Preço: 3432.00  |  Placa: FOI-3242 
+Marca: TITAN  |  Modelo: BIS  |  Ano: 1997  |  PreÃ§o: 1200.00 | Placa: BIS-1234
