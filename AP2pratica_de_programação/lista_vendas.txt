@@ -1,4 +1,2 @@
-Marca: DAFRA  |  Modelo: HORIZON  |  Ano: 2016  |  Preço: 9000.00  |  Placa: IJK-2839 
-Marca: TESTE  |  Modelo: TESTE  |  Ano: 2014  |  Preço: 4125.00  |  Placa: PAU-5198 
-Marca: YAMAHA  |  Modelo: FACTOR  |  Ano: 28317  |  Preço: 32847.00  |  Placa: LKO-2941 
-Marca: BMW  |  Modelo: CB200  |  Ano: 2016  |  Preço: 18000.80  |  Placa: JKP-1234 
+Marca: HONDA  |  Modelo: BIS50  |  Ano: 2021  |  PreÃ§o: 5020.00 | Placa: DES-5556
+Marca: HONDA  |  Modelo: BIS  |  Ano: 2019  |  PreÃ§o: 7000.00  |  Placa: SHE-5566
