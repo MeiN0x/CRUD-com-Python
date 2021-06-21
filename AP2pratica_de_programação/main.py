@@ -72,7 +72,6 @@ while opcao != 7:
             print('\n\033[1;31mA placa está incorreta. Digite-a na forma LLL-NNNN ou LLL-NLNN ou 0 para cancelar'
                   '\n\033[m')
 
-
         with open('cadastro_motos.txt', 'r+', encoding="utf-8") as cadastro_motos:
             texto = cadastro_motos.readlines()
             confirm = 'sS'
@@ -114,6 +113,9 @@ while opcao != 7:
 # -----------------------------------------Editar cadastro Motos-----------------------------------------------------
 
     elif opcao == 5:
+        with open('cadastro_motos.txt', 'r', encoding="utf-8") as cadastro_motos:
+            for moto in cadastro_motos:
+                print(f'{moto}', end='')
         quest = str(input('Digite R para Remover e E para Editar ?(R/E)\n'))
         if quest in 'eE':
             while True:
@@ -190,6 +192,9 @@ while opcao != 7:
 
 # --------------------------------- Remover cadastro Clientes -------------------------------------------------------------
     elif opcao == 6:
+        with open('cadastro_clientes.txt', 'r', encoding="utf-8") as cadastro_clientes:
+            for cliente in cadastro_clientes:
+                print(f'{cliente}', end='')
         quest = str(input('Digite R para Remover e E para Editar ?(R/E)\n'))
         if quest in 'rR':
             while True:

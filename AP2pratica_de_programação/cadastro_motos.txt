@@ -1,4 +1,2 @@
 Marca: TITAN  |  Modelo: HONDA  |  Ano: 2021  |  Preço: 1000.00  |  Placa: OLA-9865
-Marca: YAMAHA  |  Modelo: FAZER  |  Ano: 2013  |  Preço: 5000.00 | Placa: SAP-4568
-Marca: BMW  |  Modelo: BX542  |  Ano: 2021  |  Preço: 21000.00 | Placa: BMW-7878
-Marca: HONDA  |  Modelo: YAMAHA  |  Ano: 1998  |  Preço: 5000.00  |  Placa: FUT-6362
+Marca: HONDA  |  Modelo: CB150  |  Ano: 2008  |  Preço: 3000.00  |  Placa: GIU-2039 

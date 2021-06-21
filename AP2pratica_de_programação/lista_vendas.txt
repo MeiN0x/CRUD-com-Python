@@ -1,2 +1,5 @@
 Marca: HONDA  |  Modelo: BIS50  |  Ano: 2021  |  Preço: 5020.00 | Placa: DES-5556
 Marca: HONDA  |  Modelo: BIS  |  Ano: 2019  |  Preço: 7000.00  |  Placa: SHE-5566
+Marca: HONDA  |  Modelo: CB500  |  Ano: 2018  |  Preço: 9000.00  |  Placa: KLC-2456
+Marca: BMW  |  Modelo: BX542  |  Ano: 2021  |  Preço: 21000.00 | Placa: BMW-7878
+Marca: YAMAHA  |  Modelo: FAZER  |  Ano: 2007  |  Preço: 6000.00  |  Placa: OPQ-3245 
